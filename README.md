@@ -40,6 +40,7 @@
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [1037-valid-boomerang](https://github.com/roh-eng/Leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/roh-eng/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1486-xor-operation-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Geometry
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
 |  |
 | ------- |
