@@ -29,6 +29,7 @@
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/roh-eng/Leetcode/tree/master/1528-shuffle-string) |
 ## Math
@@ -36,6 +37,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/roh-eng/Leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [1037-valid-boomerang](https://github.com/roh-eng/Leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/roh-eng/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
@@ -85,6 +87,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 ## Depth-First Search
 |  |
