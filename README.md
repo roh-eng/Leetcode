@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/roh-eng/Leetcode/tree/master/0050-powx-n) |
 | [1037-valid-boomerang](https://github.com/roh-eng/Leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/roh-eng/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/roh-eng/Leetcode/tree/master/0463-island-perimeter) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/roh-eng/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
