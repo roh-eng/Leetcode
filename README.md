@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/roh-eng/Leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/roh-eng/Leetcode/tree/master/1528-shuffle-string) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roh-eng/Leetcode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/roh-eng/Leetcode/tree/master/0125-valid-palindrome) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
