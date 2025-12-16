@@ -126,4 +126,8 @@
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/roh-eng/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/roh-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/roh-eng/Leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
