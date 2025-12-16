@@ -41,6 +41,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/roh-eng/Leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
+| [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [1037-valid-boomerang](https://github.com/roh-eng/Leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/roh-eng/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -59,6 +60,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Matrix
