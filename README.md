@@ -14,6 +14,7 @@
 | [1051-height-checker](https://github.com/roh-eng/Leetcode/tree/master/1051-height-checker) |
 | [1184-distance-between-bus-stops](https://github.com/roh-eng/Leetcode/tree/master/1184-distance-between-bus-stops) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/roh-eng/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roh-eng/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/roh-eng/Leetcode/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
