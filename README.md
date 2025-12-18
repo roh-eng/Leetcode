@@ -52,6 +52,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/roh-eng/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1952-three-divisors](https://github.com/roh-eng/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/roh-eng/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/roh-eng/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/roh-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/roh-eng/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/roh-eng/Leetcode/tree/master/2652-sum-multiples) |
@@ -127,6 +128,7 @@
 | ------- |
 | [1952-three-divisors](https://github.com/roh-eng/Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/roh-eng/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/roh-eng/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,4 +143,5 @@
 | ------- |
 | [1534-count-good-triplets](https://github.com/roh-eng/Leetcode/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/roh-eng/Leetcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/roh-eng/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
