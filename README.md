@@ -64,6 +64,7 @@
 | [2652-sum-multiples](https://github.com/roh-eng/Leetcode/tree/master/2652-sum-multiples) |
 | [2739-total-distance-traveled](https://github.com/roh-eng/Leetcode/tree/master/2739-total-distance-traveled) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3516-find-closest-person](https://github.com/roh-eng/Leetcode/tree/master/3516-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
