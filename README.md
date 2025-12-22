@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roh-eng/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0463-island-perimeter](https://github.com/roh-eng/Leetcode/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [0941-valid-mountain-array](https://github.com/roh-eng/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roh-eng/Leetcode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/roh-eng/Leetcode/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/roh-eng/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
