@@ -33,6 +33,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/roh-eng/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roh-eng/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
