@@ -147,6 +147,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/roh-eng/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/roh-eng/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -229,5 +230,6 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/roh-eng/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roh-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
