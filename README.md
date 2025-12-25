@@ -41,6 +41,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/roh-eng/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roh-eng/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -54,6 +55,7 @@
 | [0125-valid-palindrome](https://github.com/roh-eng/Leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/roh-eng/Leetcode/tree/master/0541-reverse-string-ii) |
+| [0771-jewels-and-stones](https://github.com/roh-eng/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/roh-eng/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/roh-eng/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
