@@ -54,6 +54,7 @@
 | [0067-add-binary](https://github.com/roh-eng/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/roh-eng/Leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/roh-eng/Leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/roh-eng/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/roh-eng/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
@@ -69,6 +70,7 @@
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/roh-eng/Leetcode/tree/master/0504-base-7) |
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/roh-eng/Leetcode/tree/master/1037-valid-boomerang) |
