@@ -29,6 +29,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/roh-eng/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/roh-eng/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/roh-eng/Leetcode/tree/master/1528-shuffle-string) |
@@ -56,6 +57,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/roh-eng/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/roh-eng/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/roh-eng/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 ## String
@@ -167,6 +169,7 @@
 | [1051-height-checker](https://github.com/roh-eng/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/roh-eng/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/roh-eng/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bit Manipulation
