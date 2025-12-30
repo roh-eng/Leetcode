@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/roh-eng/Leetcode/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/roh-eng/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/roh-eng/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/roh-eng/Leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
