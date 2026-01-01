@@ -91,6 +91,7 @@
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/roh-eng/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/roh-eng/Leetcode/tree/master/0504-base-7) |
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
