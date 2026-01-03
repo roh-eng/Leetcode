@@ -90,6 +90,7 @@
 | [0050-powx-n](https://github.com/roh-eng/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/roh-eng/Leetcode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/roh-eng/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -260,6 +261,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/roh-eng/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -268,6 +270,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
