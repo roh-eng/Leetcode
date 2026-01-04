@@ -119,6 +119,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/roh-eng/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/roh-eng/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
+| [2651-calculate-delayed-arrival-time](https://github.com/roh-eng/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/roh-eng/Leetcode/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/roh-eng/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2739-total-distance-traveled](https://github.com/roh-eng/Leetcode/tree/master/2739-total-distance-traveled) |
