@@ -76,6 +76,7 @@
 | [0504-base-7](https://github.com/roh-eng/Leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/roh-eng/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/roh-eng/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/roh-eng/Leetcode/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
 | [1528-shuffle-string](https://github.com/roh-eng/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/roh-eng/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -309,4 +310,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/roh-eng/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/roh-eng/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
