@@ -48,6 +48,7 @@
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roh-eng/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/roh-eng/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/roh-eng/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
