@@ -104,6 +104,7 @@
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/roh-eng/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/roh-eng/Leetcode/tree/master/0504-base-7) |
+| [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/roh-eng/Leetcode/tree/master/1037-valid-boomerang) |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
