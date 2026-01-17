@@ -100,6 +100,7 @@
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/roh-eng/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/roh-eng/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3794-reverse-string-prefix](https://github.com/roh-eng/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
@@ -201,6 +202,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3794-reverse-string-prefix](https://github.com/roh-eng/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
