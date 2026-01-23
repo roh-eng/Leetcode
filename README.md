@@ -51,6 +51,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/roh-eng/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/roh-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/roh-eng/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roh-eng/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -142,6 +143,7 @@
 | [1925-count-square-sum-triples](https://github.com/roh-eng/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/roh-eng/Leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/roh-eng/Leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/roh-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/roh-eng/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/roh-eng/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -292,6 +294,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/roh-eng/Leetcode/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/roh-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/roh-eng/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/roh-eng/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Prefix Sum
