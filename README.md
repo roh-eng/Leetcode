@@ -71,6 +71,7 @@
 | [0013-roman-to-integer](https://github.com/roh-eng/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/roh-eng/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/roh-eng/Leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/roh-eng/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roh-eng/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -92,6 +93,7 @@
 | [0058-length-of-last-word](https://github.com/roh-eng/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/roh-eng/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/roh-eng/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/roh-eng/Leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/roh-eng/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/roh-eng/Leetcode/tree/master/0504-base-7) |
@@ -226,6 +228,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/roh-eng/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/roh-eng/Leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
