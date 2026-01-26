@@ -82,6 +82,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/roh-eng/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/roh-eng/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -108,6 +109,7 @@
 | [1417-reformat-the-string](https://github.com/roh-eng/Leetcode/tree/master/1417-reformat-the-string) |
 | [1528-shuffle-string](https://github.com/roh-eng/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/roh-eng/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1796-second-largest-digit-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1816-truncate-sentence](https://github.com/roh-eng/Leetcode/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/roh-eng/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/roh-eng/Leetcode/tree/master/1927-sum-game) |
