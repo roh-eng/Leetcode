@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/roh-eng/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/roh-eng/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/roh-eng/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/roh-eng/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/roh-eng/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roh-eng/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,6 +132,7 @@
 | [0007-reverse-integer](https://github.com/roh-eng/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/roh-eng/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/roh-eng/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/roh-eng/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/roh-eng/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/roh-eng/Leetcode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
@@ -208,6 +210,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/roh-eng/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/roh-eng/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roh-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
