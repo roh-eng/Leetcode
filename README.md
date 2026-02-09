@@ -72,6 +72,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roh-eng/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2553-separate-the-digits-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/roh-eng/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/roh-eng/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/roh-eng/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -327,6 +328,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/roh-eng/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/roh-eng/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2739-total-distance-traveled](https://github.com/roh-eng/Leetcode/tree/master/2739-total-distance-traveled) |
 | [3360-stone-removal-game](https://github.com/roh-eng/Leetcode/tree/master/3360-stone-removal-game) |
 ## Depth-First Search
