@@ -13,6 +13,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roh-eng/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/roh-eng/Leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/roh-eng/Leetcode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/roh-eng/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roh-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/roh-eng/Leetcode/tree/master/0260-single-number-iii) |
@@ -154,6 +155,7 @@
 | [0048-rotate-image](https://github.com/roh-eng/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/roh-eng/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/roh-eng/Leetcode/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/roh-eng/Leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -350,6 +352,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/roh-eng/Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/roh-eng/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/roh-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/roh-eng/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -380,6 +383,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/roh-eng/Leetcode/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/roh-eng/Leetcode/tree/master/1534-count-good-triplets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/roh-eng/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/roh-eng/Leetcode/tree/master/1925-count-square-sum-triples) |
