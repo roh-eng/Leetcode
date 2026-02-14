@@ -128,6 +128,7 @@
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/roh-eng/Leetcode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/roh-eng/Leetcode/tree/master/0520-detect-capital) |
+| [0537-complex-number-multiplication](https://github.com/roh-eng/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/roh-eng/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/roh-eng/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/roh-eng/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -171,6 +172,7 @@
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/roh-eng/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/roh-eng/Leetcode/tree/master/0504-base-7) |
+| [0537-complex-number-multiplication](https://github.com/roh-eng/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0633-sum-of-square-numbers](https://github.com/roh-eng/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -335,6 +337,7 @@
 | [0067-add-binary](https://github.com/roh-eng/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/roh-eng/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
+| [0537-complex-number-multiplication](https://github.com/roh-eng/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/roh-eng/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/roh-eng/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
