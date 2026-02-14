@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/roh-eng/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/roh-eng/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roh-eng/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/roh-eng/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/roh-eng/Leetcode/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/roh-eng/Leetcode/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/roh-eng/Leetcode/tree/master/0204-count-primes) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/roh-eng/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/roh-eng/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/roh-eng/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/roh-eng/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/roh-eng/Leetcode/tree/master/0242-valid-anagram) |
@@ -475,4 +477,8 @@
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roh-eng/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/roh-eng/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
