@@ -42,6 +42,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roh-eng/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/roh-eng/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
 | [1037-valid-boomerang](https://github.com/roh-eng/Leetcode/tree/master/1037-valid-boomerang) |
 | [1051-height-checker](https://github.com/roh-eng/Leetcode/tree/master/1051-height-checker) |
@@ -108,6 +109,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/roh-eng/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/roh-eng/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roh-eng/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/roh-eng/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/roh-eng/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/roh-eng/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -518,4 +520,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/roh-eng/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/roh-eng/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
