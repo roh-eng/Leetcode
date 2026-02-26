@@ -152,6 +152,7 @@
 | [0796-rotate-string](https://github.com/roh-eng/Leetcode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/roh-eng/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/roh-eng/Leetcode/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/roh-eng/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/roh-eng/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1417-reformat-the-string](https://github.com/roh-eng/Leetcode/tree/master/1417-reformat-the-string) |
 | [1528-shuffle-string](https://github.com/roh-eng/Leetcode/tree/master/1528-shuffle-string) |
@@ -501,6 +502,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/roh-eng/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/roh-eng/Leetcode/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/roh-eng/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/roh-eng/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roh-eng/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
