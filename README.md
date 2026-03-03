@@ -35,6 +35,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/roh-eng/Leetcode/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/roh-eng/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/roh-eng/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/roh-eng/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/roh-eng/Leetcode/tree/master/0682-baseball-game) |
@@ -110,6 +111,7 @@
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/roh-eng/Leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/roh-eng/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/roh-eng/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/roh-eng/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roh-eng/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -509,6 +511,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roh-eng/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/roh-eng/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/roh-eng/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/roh-eng/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/roh-eng/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -516,6 +519,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/roh-eng/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/roh-eng/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Merge Sort
 |  |
