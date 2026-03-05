@@ -128,6 +128,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/roh-eng/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/roh-eng/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/roh-eng/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
@@ -170,6 +171,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/roh-eng/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/roh-eng/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/roh-eng/Leetcode/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/roh-eng/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/roh-eng/Leetcode/tree/master/1903-largest-odd-number-in-string) |
