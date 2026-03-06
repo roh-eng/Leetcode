@@ -196,6 +196,7 @@
 | [0067-add-binary](https://github.com/roh-eng/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/roh-eng/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/roh-eng/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/roh-eng/Leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -256,6 +257,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/roh-eng/Leetcode/tree/master/0223-rectangle-area) |
 | [1037-valid-boomerang](https://github.com/roh-eng/Leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/roh-eng/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/roh-eng/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
