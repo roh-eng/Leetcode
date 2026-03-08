@@ -61,6 +61,7 @@
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roh-eng/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/roh-eng/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/roh-eng/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -124,6 +125,7 @@
 | [1122-relative-sort-array](https://github.com/roh-eng/Leetcode/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/roh-eng/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/roh-eng/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/roh-eng/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -279,6 +281,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0633-sum-of-square-numbers](https://github.com/roh-eng/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/roh-eng/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/roh-eng/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -314,6 +317,7 @@
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/roh-eng/Leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/roh-eng/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roh-eng/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -337,6 +341,7 @@
 | [1051-height-checker](https://github.com/roh-eng/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/roh-eng/Leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/roh-eng/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
