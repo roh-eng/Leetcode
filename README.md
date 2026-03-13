@@ -211,6 +211,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/roh-eng/Leetcode/tree/master/0372-super-pow) |
+| [0400-nth-digit](https://github.com/roh-eng/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/roh-eng/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/roh-eng/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -285,6 +286,7 @@
 | [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/roh-eng/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/roh-eng/Leetcode/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/roh-eng/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/roh-eng/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roh-eng/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
