@@ -125,6 +125,7 @@
 | [0205-isomorphic-strings](https://github.com/roh-eng/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/roh-eng/Leetcode/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/roh-eng/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/roh-eng/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/roh-eng/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -220,6 +221,7 @@
 | [0223-rectangle-area](https://github.com/roh-eng/Leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/roh-eng/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/roh-eng/Leetcode/tree/master/0372-super-pow) |
@@ -527,6 +529,7 @@
 | [0119-pascals-triangle-ii](https://github.com/roh-eng/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roh-eng/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/roh-eng/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
@@ -549,6 +552,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/roh-eng/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/roh-eng/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/roh-eng/Leetcode/tree/master/0912-sort-an-array) |
