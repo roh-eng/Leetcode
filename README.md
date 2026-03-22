@@ -497,6 +497,7 @@
 | [0619-biggest-single-number](https://github.com/roh-eng/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/roh-eng/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/roh-eng/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1075-project-employees-i](https://github.com/roh-eng/Leetcode/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/roh-eng/Leetcode/tree/master/1251-average-selling-price) |
 | [1587-bank-account-summary-ii](https://github.com/roh-eng/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/roh-eng/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
