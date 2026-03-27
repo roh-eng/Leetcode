@@ -509,6 +509,7 @@
 | [1407-top-travellers](https://github.com/roh-eng/Leetcode/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/roh-eng/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1729-find-followers-count](https://github.com/roh-eng/Leetcode/tree/master/1729-find-followers-count) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/roh-eng/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/roh-eng/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/roh-eng/Leetcode/tree/master/3436-find-valid-emails) |
 ## Enumeration
