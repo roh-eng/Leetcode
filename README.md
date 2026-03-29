@@ -512,6 +512,7 @@
 | [1407-top-travellers](https://github.com/roh-eng/Leetcode/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/roh-eng/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1587-bank-account-summary-ii](https://github.com/roh-eng/Leetcode/tree/master/1587-bank-account-summary-ii) |
+| [1693-daily-leads-and-partners](https://github.com/roh-eng/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/roh-eng/Leetcode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/roh-eng/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/roh-eng/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
