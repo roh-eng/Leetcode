@@ -36,6 +36,7 @@
 | [0287-find-the-duplicate-number](https://github.com/roh-eng/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/roh-eng/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/roh-eng/Leetcode/tree/master/0463-island-perimeter) |
 | [0477-total-hamming-distance](https://github.com/roh-eng/Leetcode/tree/master/0477-total-hamming-distance) |
@@ -569,6 +570,7 @@
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/roh-eng/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
@@ -586,6 +588,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
