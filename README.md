@@ -48,6 +48,7 @@
 | [0575-distribute-candies](https://github.com/roh-eng/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/roh-eng/Leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/roh-eng/Leetcode/tree/master/0705-design-hashset) |
+| [0724-find-pivot-index](https://github.com/roh-eng/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/roh-eng/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0825-friends-of-appropriate-ages](https://github.com/roh-eng/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
@@ -515,6 +516,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/roh-eng/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/roh-eng/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/roh-eng/Leetcode/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/roh-eng/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/roh-eng/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
