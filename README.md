@@ -232,6 +232,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/roh-eng/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2942-find-words-containing-character](https://github.com/roh-eng/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/roh-eng/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/roh-eng/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3794-reverse-string-prefix](https://github.com/roh-eng/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -301,6 +302,7 @@
 | [3099-harshad-number](https://github.com/roh-eng/Leetcode/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/roh-eng/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3280-convert-date-to-binary](https://github.com/roh-eng/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3360-stone-removal-game](https://github.com/roh-eng/Leetcode/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/roh-eng/Leetcode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/roh-eng/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
