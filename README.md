@@ -121,6 +121,7 @@
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roh-eng/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/roh-eng/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/roh-eng/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/roh-eng/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roh-eng/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -525,6 +526,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/roh-eng/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/roh-eng/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/roh-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/roh-eng/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Database
 |  |
 | ------- |
