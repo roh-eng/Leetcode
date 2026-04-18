@@ -144,6 +144,7 @@
 | [3668-restore-finishing-order](https://github.com/roh-eng/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/roh-eng/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/roh-eng/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3861-minimum-capacity-box](https://github.com/roh-eng/Leetcode/tree/master/3861-minimum-capacity-box) |
 | [3866-first-unique-even-element](https://github.com/roh-eng/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
