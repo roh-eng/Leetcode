@@ -142,6 +142,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/roh-eng/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/roh-eng/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/roh-eng/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/roh-eng/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/roh-eng/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3861-minimum-capacity-box](https://github.com/roh-eng/Leetcode/tree/master/3861-minimum-capacity-box) |
@@ -519,6 +520,7 @@
 | [2739-total-distance-traveled](https://github.com/roh-eng/Leetcode/tree/master/2739-total-distance-traveled) |
 | [3174-clear-digits](https://github.com/roh-eng/Leetcode/tree/master/3174-clear-digits) |
 | [3360-stone-removal-game](https://github.com/roh-eng/Leetcode/tree/master/3360-stone-removal-game) |
+| [3701-compute-alternating-sum](https://github.com/roh-eng/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Depth-First Search
 |  |
 | ------- |
