@@ -38,6 +38,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/roh-eng/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/roh-eng/Leetcode/tree/master/0463-island-perimeter) |
 | [0477-total-hamming-distance](https://github.com/roh-eng/Leetcode/tree/master/0477-total-hamming-distance) |
@@ -158,6 +159,7 @@
 | [0242-valid-anagram](https://github.com/roh-eng/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/roh-eng/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roh-eng/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/roh-eng/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/roh-eng/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -415,6 +417,7 @@
 | [0274-h-index](https://github.com/roh-eng/Leetcode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roh-eng/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/roh-eng/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/roh-eng/Leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/roh-eng/Leetcode/tree/master/0539-minimum-time-difference) |
