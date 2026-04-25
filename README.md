@@ -122,6 +122,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/roh-eng/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/roh-eng/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/roh-eng/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/roh-eng/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/roh-eng/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -255,6 +256,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/roh-eng/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/roh-eng/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/roh-eng/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/roh-eng/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/roh-eng/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
@@ -684,6 +686,7 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/roh-eng/Leetcode/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/roh-eng/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Stack
 |  |
 | ------- |
