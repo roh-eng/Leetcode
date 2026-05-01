@@ -37,6 +37,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/roh-eng/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roh-eng/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/roh-eng/Leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -291,6 +292,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/roh-eng/Leetcode/tree/master/0372-super-pow) |
+| [0396-rotate-function](https://github.com/roh-eng/Leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/roh-eng/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/roh-eng/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/roh-eng/Leetcode/tree/master/0415-add-strings) |
@@ -648,6 +650,7 @@
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/roh-eng/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0396-rotate-function](https://github.com/roh-eng/Leetcode/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
