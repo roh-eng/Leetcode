@@ -151,6 +151,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/roh-eng/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3452-sum-of-good-numbers](https://github.com/roh-eng/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/roh-eng/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
@@ -346,6 +347,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/roh-eng/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/roh-eng/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/roh-eng/Leetcode/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/roh-eng/Leetcode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/roh-eng/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
