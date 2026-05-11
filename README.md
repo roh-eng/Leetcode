@@ -118,6 +118,7 @@
 | [2032-two-out-of-three](https://github.com/roh-eng/Leetcode/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2057-smallest-index-with-equal-value](https://github.com/roh-eng/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/roh-eng/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roh-eng/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/roh-eng/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -203,6 +204,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/roh-eng/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/roh-eng/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/roh-eng/Leetcode/tree/master/2032-two-out-of-three) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/roh-eng/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/roh-eng/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/roh-eng/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/roh-eng/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -268,6 +270,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/roh-eng/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/roh-eng/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/roh-eng/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/roh-eng/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/roh-eng/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -518,6 +521,7 @@
 | [1748-sum-of-unique-elements](https://github.com/roh-eng/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/roh-eng/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/roh-eng/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/roh-eng/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/roh-eng/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
