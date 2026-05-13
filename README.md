@@ -153,6 +153,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/roh-eng/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/roh-eng/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/roh-eng/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -218,6 +219,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/roh-eng/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/roh-eng/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/roh-eng/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/roh-eng/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -546,6 +548,7 @@
 | [2032-two-out-of-three](https://github.com/roh-eng/Leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/roh-eng/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/roh-eng/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
