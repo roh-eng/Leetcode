@@ -74,6 +74,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/roh-eng/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roh-eng/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/roh-eng/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roh-eng/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
