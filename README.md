@@ -365,6 +365,7 @@
 | [3280-convert-date-to-binary](https://github.com/roh-eng/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/roh-eng/Leetcode/tree/master/3360-stone-removal-game) |
+| [3492-maximum-containers-on-a-ship](https://github.com/roh-eng/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/roh-eng/Leetcode/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/roh-eng/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/roh-eng/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
