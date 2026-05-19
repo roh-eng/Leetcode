@@ -333,6 +333,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/roh-eng/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roh-eng/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/roh-eng/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/roh-eng/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/roh-eng/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
