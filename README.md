@@ -658,6 +658,7 @@
 | [1729-find-followers-count](https://github.com/roh-eng/Leetcode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/roh-eng/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/roh-eng/Leetcode/tree/master/1795-rearrange-products-table) |
+| [1873-calculate-special-bonus](https://github.com/roh-eng/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/roh-eng/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/roh-eng/Leetcode/tree/master/3436-find-valid-emails) |
 ## Enumeration
