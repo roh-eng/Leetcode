@@ -167,6 +167,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/roh-eng/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/roh-eng/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/roh-eng/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/roh-eng/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -415,6 +416,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/roh-eng/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roh-eng/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -462,6 +464,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roh-eng/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-reverse-string-prefix](https://github.com/roh-eng/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
@@ -510,6 +513,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/roh-eng/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/roh-eng/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/roh-eng/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Greedy
@@ -530,6 +534,7 @@
 | [2591-distribute-money-to-maximum-children](https://github.com/roh-eng/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/roh-eng/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting Sort
 |  |
 | ------- |
