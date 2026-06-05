@@ -384,6 +384,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/roh-eng/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/roh-eng/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/roh-eng/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/roh-eng/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/roh-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
@@ -717,6 +718,7 @@
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 | [1395-count-number-of-teams](https://github.com/roh-eng/Leetcode/tree/master/1395-count-number-of-teams) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/roh-eng/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/roh-eng/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Brainteaser
 |  |
 | ------- |
