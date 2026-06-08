@@ -131,6 +131,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/roh-eng/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roh-eng/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/roh-eng/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/roh-eng/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/roh-eng/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/roh-eng/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/roh-eng/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -464,6 +465,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/roh-eng/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roh-eng/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/roh-eng/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/roh-eng/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roh-eng/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -602,6 +604,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/roh-eng/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roh-eng/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/roh-eng/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/roh-eng/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/roh-eng/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/roh-eng/Leetcode/tree/master/2293-min-max-game) |
