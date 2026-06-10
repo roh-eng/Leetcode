@@ -176,6 +176,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/roh-eng/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/roh-eng/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/roh-eng/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3701-compute-alternating-sum](https://github.com/roh-eng/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/roh-eng/Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/roh-eng/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -545,6 +546,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/roh-eng/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/roh-eng/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -753,6 +755,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/roh-eng/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/roh-eng/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -835,6 +838,7 @@
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/roh-eng/Leetcode/tree/master/1395-count-number-of-teams) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/roh-eng/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Design
 |  |
 | ------- |
