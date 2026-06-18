@@ -95,6 +95,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/roh-eng/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1528-shuffle-string](https://github.com/roh-eng/Leetcode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/roh-eng/Leetcode/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/roh-eng/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/roh-eng/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/roh-eng/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/roh-eng/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -433,6 +434,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/roh-eng/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/roh-eng/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roh-eng/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/roh-eng/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
