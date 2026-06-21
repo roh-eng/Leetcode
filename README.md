@@ -677,6 +677,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/roh-eng/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/roh-eng/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/roh-eng/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
 ## Number Theory
 |  |
@@ -865,6 +866,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/roh-eng/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/roh-eng/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/roh-eng/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/roh-eng/Leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/roh-eng/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/roh-eng/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
