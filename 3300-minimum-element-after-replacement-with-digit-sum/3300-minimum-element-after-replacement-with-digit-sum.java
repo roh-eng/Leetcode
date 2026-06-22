@@ -1,16 +1,23 @@
 class Solution {
     public int minElement(int[] nums) {
+        
         for(int i=0;i<nums.length;i++){
             int sum=0;
-            int lastdigit=0;
-            int temp=nums[i];
-            while(temp>0){
-                lastdigit = temp%10;
-                sum=sum+lastdigit;
-                temp=temp/10;
+            while(nums[i]!=0){
+                int last=nums[i]%10;
+                sum=sum+last;
+                nums[i]=nums[i]/10;
+
             }
             nums[i]=sum;
         }
-        return Arrays.stream(nums).min().getAsInt();
+        int minVal = nums[0]; 
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] < minVal) {
+                minVal = nums[i];
+            }
+        }
+        
+        return minVal;
     }
 }
