@@ -41,6 +41,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/roh-eng/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/roh-eng/Leetcode/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/roh-eng/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -440,6 +441,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/roh-eng/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/roh-eng/Leetcode/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/roh-eng/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/roh-eng/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/roh-eng/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -573,6 +575,7 @@
 | [0011-container-with-most-water](https://github.com/roh-eng/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/roh-eng/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/roh-eng/Leetcode/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/roh-eng/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/roh-eng/Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/roh-eng/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -701,6 +704,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/roh-eng/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/roh-eng/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/roh-eng/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/roh-eng/Leetcode/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/roh-eng/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -773,6 +777,7 @@
 | [0264-ugly-number-ii](https://github.com/roh-eng/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0396-rotate-function](https://github.com/roh-eng/Leetcode/tree/master/0396-rotate-function) |
+| [0410-split-array-largest-sum](https://github.com/roh-eng/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
