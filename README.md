@@ -330,6 +330,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/roh-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3794-reverse-string-prefix](https://github.com/roh-eng/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/roh-eng/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/roh-eng/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
 | ------- |
@@ -420,6 +421,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/roh-eng/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/roh-eng/Leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/roh-eng/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/roh-eng/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Geometry
 |  |
 | ------- |
@@ -681,6 +683,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/roh-eng/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/roh-eng/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/roh-eng/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Depth-First Search
 |  |
 | ------- |
