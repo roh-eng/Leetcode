@@ -369,6 +369,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/roh-eng/Leetcode/tree/master/1037-valid-boomerang) |
+| [1227-airplane-seat-assignment-probability](https://github.com/roh-eng/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/roh-eng/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/roh-eng/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/roh-eng/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -793,6 +794,7 @@
 | [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/roh-eng/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1395-count-number-of-teams](https://github.com/roh-eng/Leetcode/tree/master/1395-count-number-of-teams) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/roh-eng/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/roh-eng/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -802,6 +804,7 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/roh-eng/Leetcode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/roh-eng/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
@@ -940,4 +943,8 @@
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/roh-eng/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/roh-eng/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
