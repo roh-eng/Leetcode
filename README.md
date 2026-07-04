@@ -58,6 +58,7 @@
 | [0705-design-hashset](https://github.com/roh-eng/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/roh-eng/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/roh-eng/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0825-friends-of-appropriate-ages](https://github.com/roh-eng/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/roh-eng/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -363,6 +364,7 @@
 | [0539-minimum-time-difference](https://github.com/roh-eng/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/roh-eng/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
+| [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/roh-eng/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/roh-eng/Leetcode/tree/master/0970-powerful-integers) |
@@ -638,6 +640,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/roh-eng/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0461-hamming-distance](https://github.com/roh-eng/Leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/roh-eng/Leetcode/tree/master/0477-total-hamming-distance) |
+| [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roh-eng/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -803,11 +806,13 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/roh-eng/Leetcode/tree/master/0319-bulb-switcher) |
+| [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/roh-eng/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/roh-eng/Leetcode/tree/master/1927-sum-game) |
