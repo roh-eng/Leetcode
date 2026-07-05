@@ -54,6 +54,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/roh-eng/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/roh-eng/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/roh-eng/Leetcode/tree/master/0575-distribute-candies) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/roh-eng/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/roh-eng/Leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/roh-eng/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/roh-eng/Leetcode/tree/master/0724-find-pivot-index) |
