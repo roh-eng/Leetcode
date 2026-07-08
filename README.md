@@ -350,6 +350,7 @@
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/roh-eng/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/roh-eng/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0292-nim-game](https://github.com/roh-eng/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/roh-eng/Leetcode/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/roh-eng/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/roh-eng/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -806,6 +807,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/roh-eng/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/roh-eng/Leetcode/tree/master/0319-bulb-switcher) |
 | [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
@@ -813,6 +815,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/roh-eng/Leetcode/tree/master/0292-nim-game) |
 | [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
