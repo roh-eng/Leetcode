@@ -56,6 +56,7 @@
 | [0566-reshape-the-matrix](https://github.com/roh-eng/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/roh-eng/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/roh-eng/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/roh-eng/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/roh-eng/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/roh-eng/Leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/roh-eng/Leetcode/tree/master/0705-design-hashset) |
@@ -377,6 +378,7 @@
 | [0504-base-7](https://github.com/roh-eng/Leetcode/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/roh-eng/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/roh-eng/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/roh-eng/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/roh-eng/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/roh-eng/Leetcode/tree/master/0788-rotated-digits) |
 | [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
@@ -565,6 +567,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/roh-eng/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/roh-eng/Leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/roh-eng/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/roh-eng/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/roh-eng/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0912-sort-an-array](https://github.com/roh-eng/Leetcode/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
