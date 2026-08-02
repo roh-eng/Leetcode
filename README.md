@@ -424,6 +424,7 @@
 | [2485-find-the-pivot-integer](https://github.com/roh-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/roh-eng/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/2544-alternating-digit-sum) |
+| [2578-split-with-minimum-sum](https://github.com/roh-eng/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/roh-eng/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2614-prime-in-diagonal](https://github.com/roh-eng/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/roh-eng/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
@@ -605,6 +606,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/roh-eng/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/roh-eng/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2578-split-with-minimum-sum](https://github.com/roh-eng/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2784-check-if-array-is-good](https://github.com/roh-eng/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roh-eng/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/roh-eng/Leetcode/tree/master/2974-minimum-number-game) |
@@ -632,6 +634,7 @@
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/roh-eng/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/roh-eng/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2578-split-with-minimum-sum](https://github.com/roh-eng/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/roh-eng/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/roh-eng/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
