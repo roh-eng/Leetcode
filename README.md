@@ -345,6 +345,7 @@
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/roh-eng/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/roh-eng/Leetcode/tree/master/3174-clear-digits) |
+| [3227-vowels-game-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/roh-eng/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/roh-eng/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3614-process-string-with-special-operations-ii](https://github.com/roh-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -436,6 +437,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/roh-eng/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/roh-eng/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/roh-eng/Leetcode/tree/master/3099-harshad-number) |
+| [3227-vowels-game-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/roh-eng/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/roh-eng/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -860,6 +862,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/roh-eng/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/roh-eng/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2568-minimum-impossible-or](https://github.com/roh-eng/Leetcode/tree/master/2568-minimum-impossible-or) |
+| [3227-vowels-game-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -868,6 +871,7 @@
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 | [1927-sum-game](https://github.com/roh-eng/Leetcode/tree/master/1927-sum-game) |
+| [3227-vowels-game-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
