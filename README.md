@@ -351,6 +351,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/roh-eng/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3794-reverse-string-prefix](https://github.com/roh-eng/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/roh-eng/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3884-first-matching-character-from-both-ends](https://github.com/roh-eng/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/roh-eng/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
@@ -564,6 +565,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-reverse-string-prefix](https://github.com/roh-eng/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3884-first-matching-character-from-both-ends](https://github.com/roh-eng/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
 | ------- |
