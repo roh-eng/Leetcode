@@ -147,6 +147,7 @@
 | [2057-smallest-index-with-equal-value](https://github.com/roh-eng/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/roh-eng/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roh-eng/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/roh-eng/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/roh-eng/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/roh-eng/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -258,6 +259,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/roh-eng/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/roh-eng/Leetcode/tree/master/2032-two-out-of-three) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/roh-eng/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2094-finding-3-digit-even-numbers](https://github.com/roh-eng/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/roh-eng/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/roh-eng/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/roh-eng/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -607,6 +609,7 @@
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/roh-eng/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/roh-eng/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/roh-eng/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/roh-eng/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/roh-eng/Leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/roh-eng/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -754,6 +757,7 @@
 | [0203-remove-linked-list-elements](https://github.com/roh-eng/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/roh-eng/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
+| [2094-finding-3-digit-even-numbers](https://github.com/roh-eng/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -818,6 +822,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/roh-eng/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/roh-eng/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/roh-eng/Leetcode/tree/master/1952-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/roh-eng/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/roh-eng/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/roh-eng/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/roh-eng/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
