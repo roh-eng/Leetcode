@@ -282,6 +282,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/roh-eng/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/roh-eng/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/roh-eng/Leetcode/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/roh-eng/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -464,6 +465,7 @@
 | [3870-count-commas-in-range](https://github.com/roh-eng/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3894-traffic-signal-color](https://github.com/roh-eng/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/roh-eng/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/roh-eng/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Geometry
 |  |
 | ------- |
