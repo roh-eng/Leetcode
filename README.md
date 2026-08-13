@@ -179,6 +179,7 @@
 | [2614-prime-in-diagonal](https://github.com/roh-eng/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/roh-eng/Leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/roh-eng/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2706-buy-two-chocolates](https://github.com/roh-eng/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/roh-eng/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/roh-eng/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/roh-eng/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -621,6 +622,7 @@
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/roh-eng/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2578-split-with-minimum-sum](https://github.com/roh-eng/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2706-buy-two-chocolates](https://github.com/roh-eng/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/roh-eng/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roh-eng/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/roh-eng/Leetcode/tree/master/2974-minimum-number-game) |
@@ -651,6 +653,7 @@
 | [2578-split-with-minimum-sum](https://github.com/roh-eng/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/roh-eng/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/roh-eng/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2706-buy-two-chocolates](https://github.com/roh-eng/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/roh-eng/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
