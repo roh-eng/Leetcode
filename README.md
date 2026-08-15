@@ -433,6 +433,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/roh-eng/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/roh-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/roh-eng/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2525-categorize-box-according-to-criteria](https://github.com/roh-eng/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2578-split-with-minimum-sum](https://github.com/roh-eng/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2591-distribute-money-to-maximum-children](https://github.com/roh-eng/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
