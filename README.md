@@ -137,6 +137,7 @@
 | [1920-build-array-from-permutation](https://github.com/roh-eng/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/roh-eng/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/roh-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roh-eng/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/roh-eng/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [1995-count-special-quadruplets](https://github.com/roh-eng/Leetcode/tree/master/1995-count-special-quadruplets) |
@@ -617,6 +618,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/roh-eng/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/roh-eng/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/roh-eng/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roh-eng/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/roh-eng/Leetcode/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -901,6 +903,7 @@
 | [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1652-defuse-the-bomb](https://github.com/roh-eng/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roh-eng/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/roh-eng/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Heap (Priority Queue)
 |  |
