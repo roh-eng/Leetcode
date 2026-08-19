@@ -259,6 +259,7 @@
 | [1399-count-largest-group](https://github.com/roh-eng/Leetcode/tree/master/1399-count-largest-group) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/roh-eng/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roh-eng/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/roh-eng/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/roh-eng/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
@@ -420,6 +421,7 @@
 | [1551-minimum-operations-to-make-array-equal](https://github.com/roh-eng/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/roh-eng/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/roh-eng/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/roh-eng/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/roh-eng/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/roh-eng/Leetcode/tree/master/1840-maximum-building-height) |
@@ -681,6 +683,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1399-count-largest-group](https://github.com/roh-eng/Leetcode/tree/master/1399-count-largest-group) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roh-eng/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/roh-eng/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/roh-eng/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/roh-eng/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/roh-eng/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
