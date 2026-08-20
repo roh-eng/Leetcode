@@ -195,6 +195,7 @@
 | [2974-minimum-number-game](https://github.com/roh-eng/Leetcode/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/roh-eng/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/roh-eng/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/roh-eng/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/roh-eng/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/roh-eng/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -754,6 +755,7 @@
 | [2562-find-the-array-concatenation-value](https://github.com/roh-eng/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2739-total-distance-traveled](https://github.com/roh-eng/Leetcode/tree/master/2739-total-distance-traveled) |
 | [2974-minimum-number-game](https://github.com/roh-eng/Leetcode/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/roh-eng/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/roh-eng/Leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/roh-eng/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/roh-eng/Leetcode/tree/master/3360-stone-removal-game) |
