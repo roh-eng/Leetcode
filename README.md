@@ -64,6 +64,7 @@
 | [0705-design-hashset](https://github.com/roh-eng/Leetcode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/roh-eng/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/roh-eng/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/roh-eng/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0825-friends-of-appropriate-ages](https://github.com/roh-eng/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
@@ -534,6 +535,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/roh-eng/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/roh-eng/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/roh-eng/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/roh-eng/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
