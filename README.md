@@ -182,6 +182,7 @@
 | [2568-minimum-impossible-or](https://github.com/roh-eng/Leetcode/tree/master/2568-minimum-impossible-or) |
 | [2574-left-and-right-sum-differences](https://github.com/roh-eng/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/roh-eng/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/roh-eng/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/roh-eng/Leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/roh-eng/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/roh-eng/Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -543,6 +544,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/roh-eng/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/roh-eng/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2614-prime-in-diagonal](https://github.com/roh-eng/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/roh-eng/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
 |  |
 | ------- |
