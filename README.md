@@ -454,6 +454,7 @@
 | [2729-check-if-the-number-is-fascinating](https://github.com/roh-eng/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2739-total-distance-traveled](https://github.com/roh-eng/Leetcode/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/roh-eng/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/roh-eng/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2843-count-symmetric-integers](https://github.com/roh-eng/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/roh-eng/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/roh-eng/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
