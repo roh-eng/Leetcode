@@ -85,6 +85,7 @@
 | [1051-height-checker](https://github.com/roh-eng/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/roh-eng/Leetcode/tree/master/1122-relative-sort-array) |
 | [1184-distance-between-bus-stops](https://github.com/roh-eng/Leetcode/tree/master/1184-distance-between-bus-stops) |
+| [1200-minimum-absolute-difference](https://github.com/roh-eng/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/roh-eng/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/roh-eng/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/roh-eng/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -618,6 +619,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/roh-eng/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/roh-eng/Leetcode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/roh-eng/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/roh-eng/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/roh-eng/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
