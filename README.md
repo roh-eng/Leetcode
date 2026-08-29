@@ -75,6 +75,7 @@
 | [0881-boats-to-save-people](https://github.com/roh-eng/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-smallest-range-i](https://github.com/roh-eng/Leetcode/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/roh-eng/Leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/roh-eng/Leetcode/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/roh-eng/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/roh-eng/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/roh-eng/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -414,6 +415,7 @@
 | [0829-consecutive-numbers-sum](https://github.com/roh-eng/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0877-stone-game](https://github.com/roh-eng/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/roh-eng/Leetcode/tree/master/0908-smallest-range-i) |
+| [0932-beautiful-array](https://github.com/roh-eng/Leetcode/tree/master/0932-beautiful-array) |
 | [0970-powerful-integers](https://github.com/roh-eng/Leetcode/tree/master/0970-powerful-integers) |
 | [0976-largest-perimeter-triangle](https://github.com/roh-eng/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
@@ -953,6 +955,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/roh-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/roh-eng/Leetcode/tree/master/0372-super-pow) |
 | [0912-sort-an-array](https://github.com/roh-eng/Leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/roh-eng/Leetcode/tree/master/0932-beautiful-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Interactive
 |  |
