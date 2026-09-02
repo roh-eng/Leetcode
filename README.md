@@ -209,6 +209,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/roh-eng/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/roh-eng/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/roh-eng/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/roh-eng/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -300,6 +301,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/roh-eng/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/roh-eng/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/roh-eng/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/roh-eng/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/roh-eng/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -726,6 +728,7 @@
 | [2404-most-frequent-even-element](https://github.com/roh-eng/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/roh-eng/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/roh-eng/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/roh-eng/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/roh-eng/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/roh-eng/Leetcode/tree/master/3866-first-unique-even-element) |
