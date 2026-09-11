@@ -238,6 +238,7 @@
 | [3866-first-unique-even-element](https://github.com/roh-eng/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/roh-eng/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/roh-eng/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/roh-eng/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/roh-eng/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -907,6 +908,7 @@
 | [2843-count-symmetric-integers](https://github.com/roh-eng/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/roh-eng/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/roh-eng/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/roh-eng/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Backtracking
 |  |
 | ------- |
