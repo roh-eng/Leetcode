@@ -242,6 +242,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/roh-eng/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/roh-eng/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/roh-eng/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/roh-eng/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4024-nearest-available-drone](https://github.com/roh-eng/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
@@ -627,6 +628,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3794-reverse-string-prefix](https://github.com/roh-eng/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/roh-eng/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/roh-eng/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sorting
 |  |
 | ------- |
