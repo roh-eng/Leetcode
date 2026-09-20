@@ -477,6 +477,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/roh-eng/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/roh-eng/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2396-strictly-palindromic-number](https://github.com/roh-eng/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/roh-eng/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/roh-eng/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roh-eng/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -631,6 +632,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/roh-eng/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roh-eng/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/roh-eng/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/roh-eng/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/roh-eng/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2562-find-the-array-concatenation-value](https://github.com/roh-eng/Leetcode/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roh-eng/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -972,6 +974,7 @@
 | [0810-chalkboard-xor-game](https://github.com/roh-eng/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1025-divisor-game](https://github.com/roh-eng/Leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/roh-eng/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+| [2396-strictly-palindromic-number](https://github.com/roh-eng/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/roh-eng/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2568-minimum-impossible-or](https://github.com/roh-eng/Leetcode/tree/master/2568-minimum-impossible-or) |
 | [3227-vowels-game-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/3227-vowels-game-in-a-string) |
