@@ -247,6 +247,7 @@
 | [3895-count-digit-appearances](https://github.com/roh-eng/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/roh-eng/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4024-nearest-available-drone](https://github.com/roh-eng/Leetcode/tree/master/4024-nearest-available-drone) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/roh-eng/Leetcode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Hash Table
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/roh-eng/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3866-first-unique-even-element](https://github.com/roh-eng/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/roh-eng/Leetcode/tree/master/3945-digit-frequency-score) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/roh-eng/Leetcode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## String
 |  |
 | ------- |
@@ -775,6 +777,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/roh-eng/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/roh-eng/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/roh-eng/Leetcode/tree/master/3866-first-unique-even-element) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/roh-eng/Leetcode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Bit Manipulation
 |  |
 | ------- |
