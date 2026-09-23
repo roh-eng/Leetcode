@@ -30,6 +30,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/roh-eng/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roh-eng/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/roh-eng/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/roh-eng/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/roh-eng/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
@@ -255,6 +256,7 @@
 | [0073-set-matrix-zeroes](https://github.com/roh-eng/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/roh-eng/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/roh-eng/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/roh-eng/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/roh-eng/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/roh-eng/Leetcode/tree/master/0242-valid-anagram) |
@@ -653,6 +655,7 @@
 | [0018-4sum](https://github.com/roh-eng/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/roh-eng/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/roh-eng/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/roh-eng/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/roh-eng/Leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/roh-eng/Leetcode/tree/master/0242-valid-anagram) |
@@ -747,6 +750,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/roh-eng/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/roh-eng/Leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/roh-eng/Leetcode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/roh-eng/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -1018,6 +1022,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/roh-eng/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/roh-eng/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/roh-eng/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roh-eng/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0372-super-pow](https://github.com/roh-eng/Leetcode/tree/master/0372-super-pow) |
@@ -1150,4 +1155,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/roh-eng/Leetcode/tree/master/0141-linked-list-cycle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/roh-eng/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
