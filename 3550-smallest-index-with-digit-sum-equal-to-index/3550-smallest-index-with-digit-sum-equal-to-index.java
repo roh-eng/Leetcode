@@ -1,19 +1,22 @@
 class Solution {
     public int smallestIndex(int[] nums) {
+        //int ans=0;
+        //int sum=0;
         int last=0;
-        
         for(int i=0;i<nums.length;i++){
             int sum=0;
-            while(nums[i]>0){
-                last=nums[i]%10;
-                sum=sum+last;
-                nums[i]=nums[i]/10;
-            }
-            if(sum==i){
-                return i;
-            }
+            int num=nums[i];
             
-        }
+            while(num>0){
+                last=num%10;
+                sum=sum+last;
+                num=num/10;
+            }
+                if(sum==i){
+                    return i;
+                }
+            }
+        
         return -1;
     }
 }
