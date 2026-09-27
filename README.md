@@ -1051,6 +1051,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roh-eng/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/roh-eng/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/roh-eng/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/roh-eng/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/roh-eng/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1088,6 +1089,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/roh-eng/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roh-eng/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Union-Find
 |  |
@@ -1134,6 +1136,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/roh-eng/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0535-encode-and-decode-tinyurl](https://github.com/roh-eng/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/roh-eng/Leetcode/tree/master/0705-design-hashset) |
 ## Hash Function
