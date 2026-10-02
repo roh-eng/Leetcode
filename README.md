@@ -412,6 +412,7 @@
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/roh-eng/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/roh-eng/Leetcode/tree/master/3174-clear-digits) |
+| [3210-find-the-encrypted-string](https://github.com/roh-eng/Leetcode/tree/master/3210-find-the-encrypted-string) |
 | [3227-vowels-game-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/roh-eng/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/roh-eng/Leetcode/tree/master/3280-convert-date-to-binary) |
