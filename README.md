@@ -391,6 +391,7 @@
 | [1859-sorting-the-sentence](https://github.com/roh-eng/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/roh-eng/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/roh-eng/Leetcode/tree/master/1927-sum-game) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/roh-eng/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/roh-eng/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/roh-eng/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/roh-eng/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -838,6 +839,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/roh-eng/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roh-eng/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/roh-eng/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/roh-eng/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/roh-eng/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/roh-eng/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/roh-eng/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
