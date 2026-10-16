@@ -256,6 +256,7 @@
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/roh-eng/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4024-nearest-available-drone](https://github.com/roh-eng/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/roh-eng/Leetcode/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -601,6 +602,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/roh-eng/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/roh-eng/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -744,6 +746,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/roh-eng/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3731-find-missing-elements](https://github.com/roh-eng/Leetcode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/roh-eng/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Greedy
 |  |
 | ------- |
@@ -984,6 +987,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/roh-eng/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/roh-eng/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [4024-nearest-available-drone](https://github.com/roh-eng/Leetcode/tree/master/4024-nearest-available-drone) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Backtracking
 |  |
 | ------- |
