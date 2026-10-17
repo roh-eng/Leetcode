@@ -555,6 +555,7 @@
 | [3894-traffic-signal-color](https://github.com/roh-eng/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/roh-eng/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/roh-eng/Leetcode/tree/master/3945-digit-frequency-score) |
+| [3959-check-good-integer](https://github.com/roh-eng/Leetcode/tree/master/3959-check-good-integer) |
 ## Geometry
 |  |
 | ------- |
@@ -890,6 +891,7 @@
 | [3701-compute-alternating-sum](https://github.com/roh-eng/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/roh-eng/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/roh-eng/Leetcode/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/roh-eng/Leetcode/tree/master/3959-check-good-integer) |
 ## Depth-First Search
 |  |
 | ------- |
