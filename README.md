@@ -254,6 +254,7 @@
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/roh-eng/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/roh-eng/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/roh-eng/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/roh-eng/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/roh-eng/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/roh-eng/Leetcode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
@@ -556,6 +557,7 @@
 | [3895-count-digit-appearances](https://github.com/roh-eng/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/roh-eng/Leetcode/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/roh-eng/Leetcode/tree/master/3959-check-good-integer) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/roh-eng/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Geometry
 |  |
 | ------- |
@@ -922,6 +924,7 @@
 | [2614-prime-in-diagonal](https://github.com/roh-eng/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/roh-eng/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/roh-eng/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -988,6 +991,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/roh-eng/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/roh-eng/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/roh-eng/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/roh-eng/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/roh-eng/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Backtracking
