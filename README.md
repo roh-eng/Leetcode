@@ -64,6 +64,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/roh-eng/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/roh-eng/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roh-eng/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/roh-eng/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/roh-eng/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/roh-eng/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/roh-eng/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -587,6 +588,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/roh-eng/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/roh-eng/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/roh-eng/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/roh-eng/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0825-friends-of-appropriate-ages](https://github.com/roh-eng/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/roh-eng/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -652,6 +654,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/roh-eng/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/roh-eng/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/roh-eng/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/roh-eng/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0825-friends-of-appropriate-ages](https://github.com/roh-eng/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/roh-eng/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/roh-eng/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -701,6 +704,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/roh-eng/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/roh-eng/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roh-eng/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/roh-eng/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/roh-eng/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/roh-eng/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0825-friends-of-appropriate-ages](https://github.com/roh-eng/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
@@ -1050,6 +1054,7 @@
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/roh-eng/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0658-find-k-closest-elements](https://github.com/roh-eng/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1652-defuse-the-bomb](https://github.com/roh-eng/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/roh-eng/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1062,6 +1067,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roh-eng/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/roh-eng/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/roh-eng/Leetcode/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/roh-eng/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/roh-eng/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/roh-eng/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
