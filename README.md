@@ -132,6 +132,7 @@
 | [1652-defuse-the-bomb](https://github.com/roh-eng/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/roh-eng/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/roh-eng/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roh-eng/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1720-decode-xored-array](https://github.com/roh-eng/Leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/roh-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -495,6 +496,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/roh-eng/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/roh-eng/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/roh-eng/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/roh-eng/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/roh-eng/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -942,6 +944,7 @@
 | [0724-find-pivot-index](https://github.com/roh-eng/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/roh-eng/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/roh-eng/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/roh-eng/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/roh-eng/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
