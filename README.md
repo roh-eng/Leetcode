@@ -424,6 +424,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/roh-eng/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2315-count-asterisks](https://github.com/roh-eng/Leetcode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/roh-eng/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/roh-eng/Leetcode/tree/master/2418-sort-the-people) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/roh-eng/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/roh-eng/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -515,6 +516,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2317-maximum-xor-after-operations](https://github.com/roh-eng/Leetcode/tree/master/2317-maximum-xor-after-operations) |
 | [2396-strictly-palindromic-number](https://github.com/roh-eng/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/roh-eng/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/roh-eng/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/roh-eng/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/roh-eng/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
