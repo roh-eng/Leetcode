@@ -258,6 +258,7 @@
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/roh-eng/Leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3895-count-digit-appearances](https://github.com/roh-eng/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/roh-eng/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/roh-eng/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/roh-eng/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4024-nearest-available-drone](https://github.com/roh-eng/Leetcode/tree/master/4024-nearest-available-drone) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/roh-eng/Leetcode/tree/master/4038-count-integers-appearing-in-a-single-block) |
@@ -570,6 +571,7 @@
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/roh-eng/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/roh-eng/Leetcode/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/roh-eng/Leetcode/tree/master/3959-check-good-integer) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/roh-eng/Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/roh-eng/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Geometry
 |  |
