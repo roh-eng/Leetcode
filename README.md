@@ -224,6 +224,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/roh-eng/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/roh-eng/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/roh-eng/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/roh-eng/Leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/roh-eng/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/roh-eng/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -340,6 +341,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/roh-eng/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/roh-eng/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/roh-eng/Leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/roh-eng/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -542,6 +544,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/roh-eng/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/roh-eng/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/roh-eng/Leetcode/tree/master/3099-harshad-number) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/roh-eng/Leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3227-vowels-game-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/roh-eng/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -835,6 +838,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/roh-eng/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/roh-eng/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/roh-eng/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/roh-eng/Leetcode/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/roh-eng/Leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/roh-eng/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/roh-eng/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
