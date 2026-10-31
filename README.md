@@ -196,6 +196,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/roh-eng/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/roh-eng/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/roh-eng/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2527-find-xor-beauty-of-array](https://github.com/roh-eng/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/roh-eng/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2549-count-distinct-numbers-on-board](https://github.com/roh-eng/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -529,6 +530,7 @@
 | [2485-find-the-pivot-integer](https://github.com/roh-eng/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/roh-eng/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/roh-eng/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2527-find-xor-beauty-of-array](https://github.com/roh-eng/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2544-alternating-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/roh-eng/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2578-split-with-minimum-sum](https://github.com/roh-eng/Leetcode/tree/master/2578-split-with-minimum-sum) |
@@ -867,6 +869,7 @@
 | [2317-maximum-xor-after-operations](https://github.com/roh-eng/Leetcode/tree/master/2317-maximum-xor-after-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/roh-eng/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2527-find-xor-beauty-of-array](https://github.com/roh-eng/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2568-minimum-impossible-or](https://github.com/roh-eng/Leetcode/tree/master/2568-minimum-impossible-or) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/roh-eng/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
