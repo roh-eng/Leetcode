@@ -143,6 +143,7 @@
 | [1800-maximum-ascending-subarray-sum](https://github.com/roh-eng/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1816-truncate-sentence](https://github.com/roh-eng/Leetcode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/roh-eng/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/roh-eng/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/roh-eng/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/roh-eng/Leetcode/tree/master/1840-maximum-building-height) |
@@ -508,6 +509,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/roh-eng/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/roh-eng/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/roh-eng/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/roh-eng/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1840-maximum-building-height](https://github.com/roh-eng/Leetcode/tree/master/1840-maximum-building-height) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/roh-eng/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -892,6 +894,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/roh-eng/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/roh-eng/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roh-eng/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/roh-eng/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/roh-eng/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/roh-eng/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/roh-eng/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -939,6 +942,7 @@
 | [0206-reverse-linked-list](https://github.com/roh-eng/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/roh-eng/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/roh-eng/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/roh-eng/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/roh-eng/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
@@ -1172,6 +1176,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/roh-eng/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/roh-eng/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/roh-eng/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Union-Find
 |  |
 | ------- |
