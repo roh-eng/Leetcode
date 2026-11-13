@@ -406,6 +406,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/roh-eng/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/roh-eng/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/roh-eng/Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/roh-eng/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/roh-eng/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
@@ -508,6 +509,7 @@
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/roh-eng/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/roh-eng/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/roh-eng/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/roh-eng/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/roh-eng/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/roh-eng/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/roh-eng/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
