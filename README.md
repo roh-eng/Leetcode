@@ -326,6 +326,7 @@
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/roh-eng/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/roh-eng/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/roh-eng/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/roh-eng/Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -428,6 +429,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/roh-eng/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/roh-eng/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/roh-eng/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/roh-eng/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/roh-eng/Leetcode/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/roh-eng/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -1021,6 +1023,7 @@
 | [1995-count-special-quadruplets](https://github.com/roh-eng/Leetcode/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/roh-eng/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/roh-eng/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/roh-eng/Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/roh-eng/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/roh-eng/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/roh-eng/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
