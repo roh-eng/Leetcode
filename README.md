@@ -557,6 +557,7 @@
 | [3227-vowels-game-in-a-string](https://github.com/roh-eng/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/roh-eng/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/roh-eng/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3270-find-the-key-of-the-numbers](https://github.com/roh-eng/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/roh-eng/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/roh-eng/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/roh-eng/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
