@@ -223,6 +223,7 @@
 | [2974-minimum-number-game](https://github.com/roh-eng/Leetcode/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/roh-eng/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/roh-eng/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/roh-eng/Leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/roh-eng/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/roh-eng/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -932,6 +933,7 @@
 | [2739-total-distance-traveled](https://github.com/roh-eng/Leetcode/tree/master/2739-total-distance-traveled) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/roh-eng/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/roh-eng/Leetcode/tree/master/2974-minimum-number-game) |
+| [3038-maximum-number-of-operations-with-the-same-score-i](https://github.com/roh-eng/Leetcode/tree/master/3038-maximum-number-of-operations-with-the-same-score-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/roh-eng/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/roh-eng/Leetcode/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/roh-eng/Leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
