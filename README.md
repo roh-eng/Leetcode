@@ -221,6 +221,7 @@
 | [2942-find-words-containing-character](https://github.com/roh-eng/Leetcode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/roh-eng/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/roh-eng/Leetcode/tree/master/2974-minimum-number-game) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/roh-eng/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/roh-eng/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/roh-eng/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/roh-eng/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -890,6 +891,7 @@
 | [2527-find-xor-beauty-of-array](https://github.com/roh-eng/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2568-minimum-impossible-or](https://github.com/roh-eng/Leetcode/tree/master/2568-minimum-impossible-or) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/roh-eng/Leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/roh-eng/Leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/roh-eng/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/roh-eng/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/roh-eng/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
