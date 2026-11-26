@@ -459,6 +459,7 @@
 | [3838-weighted-word-mapping](https://github.com/roh-eng/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3884-first-matching-character-from-both-ends](https://github.com/roh-eng/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/roh-eng/Leetcode/tree/master/3894-traffic-signal-color) |
+| [3931-check-adjacent-digit-differences](https://github.com/roh-eng/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/roh-eng/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Math
 |  |
