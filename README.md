@@ -211,6 +211,7 @@
 | [2643-row-with-maximum-ones](https://github.com/roh-eng/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/roh-eng/Leetcode/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/roh-eng/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2670-find-the-distinct-difference-array](https://github.com/roh-eng/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2706-buy-two-chocolates](https://github.com/roh-eng/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/roh-eng/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/roh-eng/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -344,6 +345,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/roh-eng/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/roh-eng/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/roh-eng/Leetcode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2670-find-the-distinct-difference-array](https://github.com/roh-eng/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/roh-eng/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/roh-eng/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2784-check-if-array-is-good](https://github.com/roh-eng/Leetcode/tree/master/2784-check-if-array-is-good) |
